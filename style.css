@@ -1,0 +1,13 @@
+.cards {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.cards > *{
+width:5em;
+height: 8em;
+border: 1px solid gray;
+}
+.festive{
+	background-color:hotpink;
+}
